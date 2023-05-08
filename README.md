@@ -51,6 +51,7 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 #### Media Asset Management (MAM)
 
 - [Beets](https://beets.io/) - Python music library manager
+- [Funkwhale](https://funkwhale.audio/) - A decentralized clone of the popular "orange cloud"
 - [MediaCMS](https://mediacms.io/) - Media Asset Repository based on Django, Celery, Python 3
 
 ## Community Radio and Broadcasting
