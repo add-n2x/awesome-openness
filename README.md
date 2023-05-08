@@ -53,9 +53,18 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 - [Beets](https://beets.io/) - Python music library manager
 - [MediaCMS](https://mediacms.io/) - Media Asset Repository based on Django, Celery, Python 3
 
-## Radio and Broadcasting
+## Community Radio and Broadcasting
 
 - [Automated Radio (AURA)](https://aura.radio) - A software suite to build, organize and broadcast community radios
+- [azuracast](https://www.azuracast.com/) - web radio station in a box
+- [Butt](https://danielnoethen.de/butt/) - broadcast using this tool, popular streaming client
+- [Lahmacun radio](https://github.com/lahmacunradio) - Open source tools by the community music radio from Budapest
+- [LibreTime](https://libretime.org/) - Radio Broadcast & Automation Platform
+- [Liquidsoap](https://www.liquidsoap.info/) - Audio and video streaming language
+- [LOHROthek](https://git.hack-hro.de/lohro/lohrothek) - Django Radio management backend and media library frontend
+- [Radio RaBe](https://github.com/radiorabe) - Open source tools from the Bern-based Community Radio
+- [Showergel](https://showergel.readthedocs.io/) - Complementary features for Liquidsoap
+- [xrcb.cat](https://gitlab.com/guifi-exo/xrcb) - Open source tools from Barcelona Community Radio Network
 
 ## Communities and Concepts
 
