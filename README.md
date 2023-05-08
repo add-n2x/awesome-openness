@@ -48,11 +48,16 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 
 - [Bookstack](https://www.bookstackapp.com/) - Laravel/PHP application to organize your knowledge in form of books
 
-#### Media Asset Management (MAM)
+### Media Asset Management (MAM) and Media Libraries
 
 - [Beets](https://beets.io/) - Python music library manager
 - [Funkwhale](https://funkwhale.audio/) - A decentralized clone of the popular "orange cloud"
 - [MediaCMS](https://mediacms.io/) - Media Asset Repository based on Django, Celery, Python 3
+
+### CRM
+
+- [CiviCRM](https://civicrm.org/)
+- [Tendenci](https://www.tendenci.com/)
 
 ## Community Radio and Broadcasting
 
