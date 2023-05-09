@@ -48,11 +48,15 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 
 - [Bookstack](https://www.bookstackapp.com/) - Laravel/PHP application to organize your knowledge in form of books
 
-### Media Asset Management (MAM) and Media Libraries
+### Media Asset Management (MAM), Media Libraries, Music Server
 
-- [Beets](https://beets.io/) - Python music library manager
-- [Funkwhale](https://funkwhale.audio/) - A decentralized clone of the popular "orange cloud"
-- [MediaCMS](https://mediacms.io/) - Media Asset Repository based on Django, Celery, Python 3
+- [Ampache](https://github.com/ampache/ampache) - Web based audio/video streaming application and file manager (AGPL-3.0)
+- [Beets](https://beets.io/) - Python music library manager (MIT)
+- [Deaftone](https://github.com/Deaftone/Deaftone) - A lightweight music server written in Rust (GPL-3.0)
+- [Funkwhale](https://funkwhale.audio/) - A decentralized music server in the Fediverse (Subsonic API, AGPL-3.0)
+- [Koel](https://koel.dev/) - PHP personal music streaming server (MIT)
+- [MediaCMS](https://mediacms.io/) - Media Asset Repository based on Django, Celery, Python 3 (AGPL-3)
+- [Mopidy](https://mopidy.com/) - Extensible music server written in Python (Subsonic API, Apache-2.0)
 
 ### CRM
 
