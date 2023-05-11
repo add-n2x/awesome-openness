@@ -66,9 +66,16 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 
 ## Community Radio and Broadcasting
 
+### Websites
+
+- [radio.garden](https://radio.garden) - Explore radios on a global map
+
+### Software and Tools
+
 - [Automated Radio (AURA)](https://aura.radio) - A software suite to build, organize and broadcast community radios
 - [azuracast](https://www.azuracast.com/) - web radio station in a box
 - [Butt](https://danielnoethen.de/butt/) - broadcast using this tool, popular streaming client
+- [Datafruits hacking repository](https://github.com/datafruits) - Datafruits is a cooperatively owned and operated free-form net radio station
 - [Lahmacun radio](https://github.com/lahmacunradio) - Open source tools by the community music radio from Budapest
 - [LibreTime](https://libretime.org/) - Radio Broadcast & Automation Platform
 - [Liquidsoap](https://www.liquidsoap.info/) - Audio and video streaming language
