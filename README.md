@@ -20,6 +20,7 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 - [Directus](https://directus.io/) - Node.js data platform
 - [Ghost](https://ghost.org/) - CMS focusing on media publishing
 - [Keystone](https://keystonejs.com/) - Node.js Headless CMS
+- [Payload](https://github.com/payloadcms/payload) - App framework and headless CMS
 - [Prismic](https://prismic.io/) - Javascript & Typescript CMS, also utilizes Svelte Components
 - [ProcessWire](https://processwire.com/) - PHP Content management system and framework (CMF)
 - [Strapi](https://strapi.io/) - Node.js Headless CMS
