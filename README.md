@@ -60,6 +60,8 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 - [MediaCMS](https://mediacms.io/) - Media Asset Repository based on Django, Celery, Python 3 (AGPL-3)
 - [Mopidy](https://mopidy.com/) - Extensible music server written in Python (Subsonic API, Apache-2.0)
 - [Navidrome](https://www.navidrome.org/) - Modern Music Server and Streamer for handling large libraries (Subsonic API, GPL-3.0)
+- [MusicBrainz](https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public (Public Domain)
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger powered by the MusicBrainz database (GPL-2.0)
 
 ### CRM
 
