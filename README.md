@@ -54,7 +54,7 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 - [Ampache](https://github.com/ampache/ampache) - Web based audio/video streaming application and file manager (AGPL-3.0).
 - [Beets](https://beets.io/) - Python music library manager (MIT).
 - [Deaftone](https://github.com/Deaftone/Deaftone) - A lightweight music server written in Rust (GPL-3.0).
-- [Feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player. Navidrome and Subsonice compatible (GPL-3.0).
+- [Feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player. Navidrome and Subsonic compatible (GPL-3.0).
 - [Funkwhale](https://funkwhale.audio/) - A decentralized music server in the Fediverse (Subsonic API, AGPL-3.0).
 - [Jellyfin](jellyfin.org) - The Free Software Media System (GPL-2.0).
 - [Koel](https://koel.dev/) - PHP personal music streaming server (MIT).
