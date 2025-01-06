@@ -51,17 +51,20 @@ A curated and opinionated list of FOSS applications, commons, communities and co
 
 ### Media Asset Management (MAM), Media Libraries, Music Server and protocols
 
-- [Ampache](https://github.com/ampache/ampache) - Web based audio/video streaming application and file manager (AGPL-3.0)
-- [Beets](https://beets.io/) - Python music library manager (MIT)
-- [Deaftone](https://github.com/Deaftone/Deaftone) - A lightweight music server written in Rust (GPL-3.0)
-- [Funkwhale](https://funkwhale.audio/) - A decentralized music server in the Fediverse (Subsonic API, AGPL-3.0)
-- [Jellyfin](jellyfin.org) - The Free Software Media System (GPL-2.0)
-- [Koel](https://koel.dev/) - PHP personal music streaming server (MIT)
-- [MediaCMS](https://mediacms.io/) - Media Asset Repository based on Django, Celery, Python 3 (AGPL-3)
-- [Mopidy](https://mopidy.com/) - Extensible music server written in Python (Subsonic API, Apache-2.0)
-- [Navidrome](https://www.navidrome.org/) - Modern Music Server and Streamer for handling large libraries (Subsonic API, GPL-3.0)
-- [MusicBrainz](https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public (Public Domain)
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger powered by the MusicBrainz database (GPL-2.0)
+- [Ampache](https://github.com/ampache/ampache) - Web based audio/video streaming application and file manager (AGPL-3.0).
+- [Beets](https://beets.io/) - Python music library manager (MIT).
+- [Deaftone](https://github.com/Deaftone/Deaftone) - A lightweight music server written in Rust (GPL-3.0).
+- [Feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player. Navidrome and Subsonice compatible (GPL-3.0).
+- [Funkwhale](https://funkwhale.audio/) - A decentralized music server in the Fediverse (Subsonic API, AGPL-3.0).
+- [Jellyfin](jellyfin.org) - The Free Software Media System (GPL-2.0).
+- [Koel](https://koel.dev/) - PHP personal music streaming server (MIT).
+- [MediaCMS](https://mediacms.io/) - Media Asset Repository based on Django, Celery, Python 3 (AGPL-3).
+- [Mopidy](https://mopidy.com/) - Extensible music server written in Python (Subsonic API, Apache-2.0).
+- [Navidrome](https://www.navidrome.org/) - Modern Music Server and Streamer for handling large libraries (Subsonic API, GPL-3.0).
+- [MusicBrainz](https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public (Public Domain).
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger powered by the MusicBrainz database (GPL-2.0).
+
+Find others in [Selfhosted Music Overview](https://github.com/basings/selfhosted-music-overview).
 
 ### CRM
 
